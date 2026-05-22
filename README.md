@@ -348,6 +348,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 
 **AI Tools**  
 - [thebricks](https://www.thebricks.com/) - AI Spreadsheet
+- [Google Jules](https://jules.google/)   
 - [Intercom](https://www.intercom.com/) - AI Customer Service Company
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) 100+ specialized Claude Code subagent definitions
 - [Marginlab Claude Code Tracker](https://marginlab.ai/trackers/claude-code/) - Independent daily AI model performance monitoring
@@ -425,12 +426,43 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [lovart](https://www.lovart.ai/)
 - [RealAI](https://realai.com/) - Your real estate AI analyst   
 - [meetkai](https://meetkai.com/) - The Scalable AI Platform
-- [kompas](https://kompas.ai/dashboard/landing) - Generate a report  
+- [kompas](https://kompas.ai/dashboard/landing) - Generate a report
+- [Cline](https://cline.bot/)
+- [Cohere](https://cohere.com/)
+- [Framework](https://frame.work/)
+- [MemPalace](https://github.com/MemPalace/mempalace)
+- [Claude Productivity](https://virtualuncle.com/github-repos-claude-code-productivity-2026/)
+- [OpenCode AI](https://opencode.ai/)
+- [BlockNoteJS](https://www.blocknotejs.org/)
+- [Claw Code](https://github.com/instructkr/claw-code)
 - [cursor](https://www.cursor.com/) - The AI Code Editor  
 - [Gamma](https://gamma.app/) - create presentations & websites with AI
 - [Semsush](https://www.semrush.com/) - AI-powered marketing platform
 - [Gumloop](https://www.gumloop.com/) - automate any workflow with AI
 - [manus](https://manus.im/?index=1) - AI agent that bridges minds and actions
+- [DocuSeal](https://www.docuseal.com/)
+- [Elastic](https://www.elastic.co/)
+- [Ventoy](https://www.ventoy.net/en/index.html)
+- [Heretic Launcher](https://github.com/p-e-w/heretic)
+- [Luma](https://luma.com/)
+- [daily.dev](https://daily.dev/)
+- [GodModeSkill](https://github.com/99xAgency/GodModeSkill)
+- [Spline](https://spline.design/)
+- [HandBrake](https://handbrake.fr/)
+- [Finegrain AI](https://finegrain.ai/) 
+- [AirLLM](https://github.com/lyogavin/airllm)
+- [Free Claude Code](https://github.com/Alishahryar1/free-claude-code)
+- [PiKVM](https://pikvm.org/products/)
+- [Hermes Agent](https://hermes-agent.nousresearch.com/)
+- [AnythingLLM](https://anythingllm.com/)
+- [Twin AI](https://twin.so/)
+- [Higgsfield AI](https://higgsfield.ai/)
+- [Oracle AI](https://github.com/steipete/oracle)
+- [TimesFM](https://github.com/google-research/timesfm)
+- [AI Research Papers](https://arxiv.org/list/cs.AI/recent)
+- [Twingate](https://www.twingate.com/)
+- [ASI Evolve](https://github.com/GAIR-NLP/ASI-Evolve)
+- [Mistral AI](https://mistral.ai/)
 - [stowaway](https://www.stowaway.io/) - Take your business where you already are  
 - [Dream Machine](https://lumalabs.ai/dream-machine) - share your dreams with the world  
 - [synthesia](https://www.synthesia.io/) - free AI Video Generator
@@ -673,13 +705,22 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Skool — Community Discovery and Creation](https://www.skool.com/)
 - [SponsorApp — Sponsorship Management](https://sponsorapp.io/)
 - [Cronysoft — Warehouse Management System](https://wms.cronysoft.com/#con)
-- [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business  
+- [Idea Browser](https://www.ideabrowser.com/)  
+- [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business
+- [Gumroad](https://gumroad.com/)
+- [Autopilot](https://www.joinautopilot.com/landing)
+- [RealtyAPI](https://www.realtyapi.io/)
+- [ShipVeho](https://www.shipveho.com/)
+- [ChowNow](https://www.chownow.com/)
+- [Nimbalyst](https://nimbalyst.com/)  
 - [proof](https://www.proof.com/) - identity-centric security platform  
 - [mintlify](https://mintlify.com/) - meet the modern standard for documentation  
 - [nira](https://nira.com/templates/) - free resources for getting work done  
 - [indoorway](https://www.indoorway.com/) - provides real-time location system
 - [swipefile](https://swipefile.com/) - marketing inspiration 
 - [chatfuel](https://chatfuel.com/) - automate workflow
+- [AGDC](https://www.agdcnow.com/)
+- [Reteno](https://reteno.com/)
 - [Cogency Global](https://www.cogencyglobal.com) -  representation and corporate compliance services from professionals who are proven industry leaders     
 - [getwherewolf](https://getwherewolf.com/) - Capture Waivers, Drive Bookings, Automate Reviews
 - [oceanstalent](https://www.oceanstalent.com/) - Hire proactive global talent for your team 
@@ -868,6 +909,7 @@ https://topoexport.com/)
 - [Land-book — Website Design Inspiration Gallery](https://land-book.com/)
 - [Lapa Ninja — Landing Page Design Inspiration](https://www.lapa.ninja/)
 - [Photopea — Free Online Photo Editor](https://www.photopea.com/)
+- [Paper Design](https://paper.design/)  
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [DealSeek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Spline — 3D Design Tool in Browser](https://spline.design/)
@@ -885,7 +927,8 @@ https://topoexport.com/)
 
 **Design Inspiration**  
 - [mobbin](https://mobbin.com/)  
-- [behance](https://www.behance.net/)  
+- [behance](https://www.behance.net/)
+- [UI Inspiration Sites](https://www.reddit.com/r/webdesign/comments/1q6dmix/25_ui_design_inspiration_websites_worth/)  
 - [dribbble](https://dribbble.com/)  
 
 **Tools**    
@@ -932,7 +975,8 @@ https://topoexport.com/)
 
 **Work**  
 - [HEB Perkspot](http://heb.perkspot.com/)  
-- [Tickets at Work](http://www.ticketsatwork.com/)  
+- [Tickets at Work](http://www.ticketsatwork.com/)
+- [Externships](https://www.extern.com/externships)    
 
 **Savings Sites**  
 - [RetailMeNot](http://www.retailmenot.com/)  
@@ -1072,9 +1116,17 @@ https://topoexport.com/)
 - [drifted](https://www.drifted.com/)
 - [Vinyl Latin Funk Session — Humano Studios](https://www.youtube.com/watch?v=_kPwVTuEDEg&list=RD_kPwVTuEDEg&index=1) - 60s Latin funk, psych & garage vinyl studio session
 - [Jailbreak Your Kindle — Dammit Jeff](https://www.youtube.com/watch?v=Qtk7ERwlIAk) - Guide to jailbreaking Kindle e-readers
-- [Windows 93](https://www.windows93.net/) - Nostalgic parody of Windows 93 — interactive browser-based retro operating system with Easter eggs and games  
+- [Windows 93](https://www.windows93.net/) - Nostalgic parody of Windows 93 — interactive browser-based retro operating system with Easter eggs and games
+- [MyInstants Memes](https://www.myinstants.com/en/categories/memes/us/)
+- [57 Seconds Subtitles](https://subtitlecat.com/subs/560/57%20Seconds%202023.html)
+- [Famelack TV](https://famelack.com/tv/ru/8KkzMzj0gbrJEI)
+- [Vice City Browser](https://quenq.com/apps/vice-city/)
+- [Ambient Music Mix](https://www.youtube.com/watch?v=6MC1XqZSltw)
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
+- [MultiMovies](https://multimovies.autos/)
+- [Rogue Engineer](https://www.youtube.com/@rogueengineer/videos)
+- [Union Crax](https://union-crax.xyz/)  
 - [Batocera — Retro Gaming Linux Distribution](https://batocera.org/)
 - [Free Games Claimer — Auto-Claim Free Games](https://github.com/vogler/free-games-claimer)
 - [Y8 — Free Online Games](https://www.y8.com/)
@@ -1099,7 +1151,13 @@ https://topoexport.com/)
 - [klarna](https://www.klarna.com/us/)  
 - [affirm](https://www.affirm.com/)  
 - [snapfinance](https://snapfinance.com/)  
-- [afterpay](https://www.afterpay.com/en-US)  
+- [afterpay](https://www.afterpay.com/en-US)
+- [Goldman Sachs PWM](https://pwm.gs.com/nam/en-us)
+- [Rothschild & Co](https://www.rothschildandco.com/)
+- [Lombard Odier](https://www.lombardodier.com/home.html)
+- [Pictet Wealth](https://www.pictet.com/us/en)
+- [Alpaca Markets](https://alpaca.markets/)
+- [Fincept](https://fincept.in/)    
 
 ## Financial Markets and Trading  
 
@@ -1400,7 +1458,8 @@ https://topoexport.com/)
 
 ## Grocery
 
-- [flipp](https://flipp.com/home) - weekly flyers for grocery stores & other stores  
+- [flipp](https://flipp.com/home) - weekly flyers for grocery stores & other stores
+- [Wildgrain](https://wildgrain.com/)   
 
 **Grocery Delivery Services**  
 - [Whole Foods](https://www.wholefoodsmarket.com/) - delivered through Amazon Prime  
@@ -1408,7 +1467,8 @@ https://topoexport.com/)
 - [Target](https://www.target.com/) - delivered through Shipt  
 - [Thrive Market](https://thrivemarket.com/)  
 - [Instacart](https://www.instacart.com/)  
-- [Shipt](https://www.shipt.com/)  
+- [Shipt](https://www.shipt.com/)
+- [Too Good To Go](https://www.toogoodtogo.com/en-us)   
 - [Boxed](https://www.boxed.com/)  
 - [Misfits Market](https://www.misfitsmarket.com/)  
 - [Gopuff](https://gopuff.com/)
@@ -1465,6 +1525,9 @@ https://topoexport.com/)
 - [ufpedge](https://www.ufpedge.com/) - wood
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)
+- [WLED Knowledge Base](https://kno.wled.ge/)
+- [Living Earth Tech](https://www.livingearthtechnology.com/)
+- [TOTO Store](https://www.amazon.com/stores/TOTO/page/81EFEFBD-555C-463D-A8AD-60974A483576)
 - [SUPERthrive](https://www.amazon.com/SUPERthrive-VI30148-Plant-Vitamin-Solution/dp/B000OM82J0) - Original plant vitamin solution with kelp and Vitamin B1 since 1940
 - [SCP Distributors](https://www.scppool.com/) - World's largest wholesale swimming pool supplies distributor
 - [Texas Pressure Washing Store](https://www.texaspressurewashingstore.com/shop/) - Pressure washing equipment and supplies
@@ -1733,6 +1796,7 @@ https://topoexport.com/)
 - [True Size](https://www.thetruesize.com/) - find the true size of your country
 - [city roads](https://anvaka.github.io/city-roads/) - website renders every single road within a city
 - [soar](https://soaratlas.com/discover) - highlighting new discoveries, creative works, and the world as it’s being mapped today
+- [Tactacam](https://www.tactacam.com/)  
 - [TopoExport — Vector Maps and 3D Terrain Models](https://topoexport.com/)
 - [ArcGIS](https://www.arcgis.com/index.html) - Esri's comprehensive GIS mapping and spatial analytics platform for creating maps, analyzing geographic data, and building location-based apps    
 - [MapCN — Beautiful Maps Made Simple](https://mapcn.dev/)    
@@ -2208,10 +2272,29 @@ https://topoexport.com/)
 - [nuro](https://www.nuro.ai/)
 - [meanwell](https://www.meanwell.com/index.aspx) - over 10,000 models of standard power supply products
 - [MagicDVR — DVR Software Downloads](https://www.magicdvr.com/downloads/)
+- [KiCad](https://www.kicad.org/)
+- [Rockbox](https://www.rockbox.org/)
+- [Barcode Generator](https://www.barcodesinc.com/generator/index.php?srsltid=AfmBOoprL7uMD5BjzesGQpvSDWD51R4ecNCxBB0v4kvAe8olLwAp421F)  
+- [Heretic Launcher](https://github.com/p-e-w/heretic)
 - [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
 - [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)
 - [CPU Benchmark — Intel Core 7 150U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+7+150U&id=5944) - PassMark CPU benchmark results and comparison data
-- [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color 1600×1200 E-Ink display for Raspberry Pi             
+- [Cap Recorder](https://github.com/CapSoftware/cap)
+- [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills)
+- [Ito Markets](https://github.com/Ito-Markets)
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
+- [AirLLM](https://github.com/lyogavin/airllm)
+- [CheckVibe](https://checkvibe.dev/)
+- [Ruflo](https://github.com/ruvnet/ruflo)
+- [Proxmox VE](https://www.proxmox.com/en/)
+- [Jekyll Docs](https://jekyllrb.com/docs/)
+- [Shlink](https://shlink.io/)
+- [MiniMax Agent](https://agent.minimax.io/?ref=producthunt)
+- [NetBird](https://netbird.io/pricing#on-prem)
+- [Chatterbox AI](https://github.com/resemble-ai/chatterbox)
+- [GNU Emacs](https://www.gnu.org/software/emacs/)   
+- [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color 1600×1200 E-Ink display for Raspberry Pi
+- [Seeed Studio](https://www.seeedstudio.com/)    
 
 **Shopping Sites** 
 - [apple education](https://www.apple.com/us-edu/store)  
@@ -2254,7 +2337,8 @@ https://topoexport.com/)
 - [stanleytools](https://www.stanleytools.com/)  
 - [acmetools](https://www.acmetools.com/)  
 - [Hilti](https://www.hilti.com/)
-- [hychika](https://hychika.com/)   
+- [hychika](https://hychika.com/)
+- [Acme Tools](https://www.acmetools.com/)   
 - [rubi](https://www.rubi.com/us)
 - [corona](https://coronatools.com/)
 - [leatherman](https://www.leatherman.com/)      
@@ -2374,6 +2458,7 @@ https://topoexport.com/)
   - [cruisewatch](https://www.cruisewatch.com/)
   - [cruisemapper](https://www.cruisemapper.com/)
   - [vacationstogo](https://www.vacationstogo.com/) - Save up to 85% on Cruises
+  - [Princess Alaska Tours](https://www.princess.com/cruise-destinations/alaska-cruises/cruisetour-options)     
 
 - **Tours**  
   - [getyourguide](https://www.getyourguide.com/)  
@@ -2522,7 +2607,8 @@ https://topoexport.com/)
 - [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)  
 - [Rectify11](https://rectify11.net/home)  
 - [Files](https://files.community/)  
-- [Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages  
+- [Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages
+- [WinBoat](https://winboat.app/)   
 - [Windhawk](https://windhawk.net/) - the customization marketplace for Windows and programs  
 - [Libre Office](https://www.libreoffice.org/) - your private, free office suite  
 - [Flow Launcher](https://www.flowlauncher.com/) - quick file search & app launcher for Windows  
@@ -2544,7 +2630,8 @@ https://topoexport.com/)
 ## World Data  
 
 - [luminocity3d](https://www.luminocity3d.org/)  
-- [atlas](https://atlas.co/)  
+- [atlas](https://atlas.co/)
+- [GorIndex](https://gorindex.site/)   
 - [visualcapitalist](https://www.visualcapitalist.com/)
 - [MoveMap — Explore Where to Live in US](https://www.movemap.io/explore/us)
 - [Luminocity — World Population Density 3D Map](https://luminocity3d.org/WorldPopDen/#6/-29.162/141.372)
