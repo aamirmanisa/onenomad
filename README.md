@@ -54,7 +54,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [🇮🇳 India](#india)  
 - [🌍 International Companies](#international-companies)  
 - [💍 Jewelry](#jewelry)  
-- [🍴 Kitchen](#kitchen)  
+- [🍴 Kitchen](#kitchen)
+- [🐧 Linux](#Linux)
 - [📍 Local](#local)  
 - [📞 Meetings and Video Calls](#meetings-and-video-calls)  
 - [💸 Money Transfer and Exchange](#money-transfer-and-exchange)  
@@ -1666,6 +1667,13 @@ https://topoexport.com/)
 - [ninjakitchen](https://www.ninjakitchen.com/)  
 - [Miele](https://www.mieleusa.com/)  
 
+## Linux
+- [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [bottles](https://usebottles.com/) - Your favorite Windows software on Linux
+- [nicotine](https://nicotine-plus.org/) - file sharing app
+- [hyprland](https://hypr.land/) - window manager
+- [niri](https://github.com/niri-wm/niri) - window manager
+- [spotify adblocker](https://github.com/SpotX-Official/SpotX-Bash)  
 
 ## Local  
 - [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
