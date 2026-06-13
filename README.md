@@ -2579,7 +2579,8 @@ https://topoexport.com/)
 - [americantrucks](https://www.americantrucks.com/)
 - [roughcountry](https://www.roughcountry.com/)
 - [linex](https://www.linex.com/)
-- [Moskomoto — GPS Tracker for Motorcycles](https://moskomoto.com/?srsltid=AfmBOopCmc2ok3vWI6a7Da2fQFavis6RKQNIdYfo06ep8QivwcQkCgzn)     
+- [Moskomoto — GPS Tracker for Motorcycles](https://moskomoto.com/?srsltid=AfmBOopCmc2ok3vWI6a7Da2fQFavis6RKQNIdYfo06ep8QivwcQkCgzn)
+- [Trico](https://www.tricoproducts.com/) - wiper blades        
 
 **Devices**  
 - [wolfbox](https://wolfbox.com/) - dashcam & smart mirror  
