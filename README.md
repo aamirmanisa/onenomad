@@ -44,7 +44,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [👠 Footwear](#footwear)  
 - [🌸 Fragrances](#fragrances)  
 - [🛋️ Furniture and Home Decor](#furniture-and-home-decor)  
-- [🚀 Futuristic Products](#futuristic-products)  
+- [🚀 Futuristic Products](#futuristic-products)
+- [</> Github](#github)  
 - [🕶️ Glasses](#glasses)  
 - [🥗 Grocery](#grocery)  
 - [💊 Health and Medicine](#health-and-medicine)  
@@ -361,6 +362,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
 - [Inception Labs Mercury 2](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - First reasoning diffusion LLM at 1,000+ tokens/sec, 5x faster than autoregressive models
 - [AI4Bharat Arena](https://arena.ai4bharat.org/#/chat) - Indian AI research lab's chatbot arena for evaluating language models
+- [Accio](https://www.accio.com/) 
 - [Paperclip](https://paperclip.ing/) - Open-source orchestration platform for zero-human companies — org charts, budgets, and governance for AI agent teams (36K+ GitHub stars)
 - [DeerFlow](https://deerflow.tech/) - ByteDance's open-source SuperAgent harness for deep research, coding, and content creation with sub-agents, memory, and sandboxed execution
 - [MiniMax Agent](https://agent.minimax.io/) - AI supercompanion powered by MiniMax M2 — general-purpose agent for coding, research, and complex multi-step tasks
@@ -910,7 +912,8 @@ https://topoexport.com/)
 - [Land-book — Website Design Inspiration Gallery](https://land-book.com/)
 - [Lapa Ninja — Landing Page Design Inspiration](https://www.lapa.ninja/)
 - [Photopea — Free Online Photo Editor](https://www.photopea.com/)
-- [Paper Design](https://paper.design/)  
+- [Paper Design](https://paper.design/)
+- [affinity](https://www.affinity.studio/)  
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [DealSeek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Spline — 3D Design Tool in Browser](https://spline.design/)
@@ -930,7 +933,8 @@ https://topoexport.com/)
 - [mobbin](https://mobbin.com/)  
 - [behance](https://www.behance.net/)
 - [UI Inspiration Sites](https://www.reddit.com/r/webdesign/comments/1q6dmix/25_ui_design_inspiration_websites_worth/)  
-- [dribbble](https://dribbble.com/)  
+- [dribbble](https://dribbble.com/)
+- [shaders](https://shaders.com/)  
 
 **Tools**    
 - [lwks](https://lwks.com/) - video editing  
@@ -946,8 +950,10 @@ https://topoexport.com/)
 - [photopea](https://www.photopea.com/)    
 - [CapCut](https://www.capcut.net/) - Video Editor
 - [descript](https://www.descript.com/) - Edit Videos & Podcasts Like a Doc
-- [figma](http://www.figma.com/)  
-- [storyblocks](https://www.storyblocks.com/)  
+- [figma](http://www.figma.com/)
+- [huemint](https://huemint.com/brand-intersection/) 
+- [storyblocks](https://www.storyblocks.com/)
+- [tldraw](https://www.tldraw.com/)   
 - [Home By Me](https://home.by.me/en/) - design your home in 3D  
 - [virtualthreads](https://www.virtualthreads.io/) - free 3D t-shirt mockup  
 - [thenounproject](https://thenounproject.com/)  
@@ -986,6 +992,7 @@ https://topoexport.com/)
 - [Slickdeals](https://slickdeals.net/)  
 - [Brickseek](https://brickseek.com/)  
 - [Ibotta](https://home.ibotta.com/)
+- [Homeschool Travel Deals](https://homeschooltraveldeals.com/)    
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [Deal Seek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Doctor of Credit](https://www.doctorofcredit.com/)  
@@ -1021,7 +1028,8 @@ https://topoexport.com/)
 - [Send Anywhere](https://send-anywhere.com/)  
 - [Smash File Transfer](https://fromsmash.com/)  
 - [Snapdrop](https://snapdrop.net/)
-- [limewire](https://limewire.com/) - 
+- [limewire](https://limewire.com/) -
+- [bvckup2](https://bvckup2.com/) - Simple fast backup     
 - [Blip](https://blip.net/) - Fastest way to send files across devices  
 - [LocalSend](https://localsend.org/) - Share files to nearby devices
 - [BentoPDF — PDF Conversion Tool](https://www.bentopdf.com/)
@@ -1177,7 +1185,8 @@ https://topoexport.com/)
 
 **Futures Trading**
 - [toponetrader](https://toponetrader.com/)
-- [topstep](https://www.topstep.com/) 
+- [topstep](https://www.topstep.com/)
+- [Lucid Trading](https://lucidtrading.com/)    
 
 **Other Sites**  
 - [finbar](https://finbar.com/about)  
@@ -1349,7 +1358,8 @@ https://topoexport.com/)
 
 **American Fragrances**
 - [Tom Ford](https://www.tomford.com/beauty/)
-- [vononparfums](https://vononparfums.com/) 
+- [vononparfums](https://vononparfums.com/)
+- [maisonlouismarie](https://maisonlouismarie.com/) 
 
 **European Fragrances**
 - [Roja Parfums](https://rojaparfums.com/)  
@@ -1427,6 +1437,17 @@ https://topoexport.com/)
 - [beta](https://beta.team/)
 - [Unitree G1 Humanoid Robot](https://www.unitree.com/mobile/g1) - Compact AI-powered humanoid robot ($13,500) with 23-43 joints, force-controlled hands, and reinforcement learning capabilities from Chinese robotics company Unitree
 
+## Github
+- [Omnivoice Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative
+- [Trek](https://github.com/mauriceboe/TREK) - self-hosted, real-time collaborative travel planner
+- [Mobile Hacklab](https://github.com/techjarves/termux-hacklab) - Run Linux Desktop with GPU Acceleration on Android
+- [Floci](https://github.com/floci-io/floci) - free, open-source local AWS emulator for development, testing, and CI
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turn any codebase, knowledge base, or docs into an interactive knowledge graph 
+- [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- [AionUI](https://github.com/iOfficeAI/AionUi) - open-source, Cowork app with AI Agents
+- [Career Ops](https://github.com/santifer/career-ops)   
+- [Proxy List](https://github.com/Argh94/Proxy-List) - proxy and VPN addresses
+- [Portable AI USB](https://github.com/techjarves/Portable-AI-USB) - fully private, portable, uncensored AI assistant 
 
 ## Glasses
 
@@ -1530,6 +1551,7 @@ https://topoexport.com/)
 - [Living Earth Tech](https://www.livingearthtechnology.com/)
 - [TOTO Store](https://www.amazon.com/stores/TOTO/page/81EFEFBD-555C-463D-A8AD-60974A483576)
 - [SUPERthrive](https://www.amazon.com/SUPERthrive-VI30148-Plant-Vitamin-Solution/dp/B000OM82J0) - Original plant vitamin solution with kelp and Vitamin B1 since 1940
+- [Hommey](https://us.gethommey.com/) 
 - [SCP Distributors](https://www.scppool.com/) - World's largest wholesale swimming pool supplies distributor
 - [Texas Pressure Washing Store](https://www.texaspressurewashingstore.com/shop/) - Pressure washing equipment and supplies
 - [Unger Global — Professional Cleaning Tools](https://usa.ungerglobal.com/)   
@@ -1634,6 +1656,7 @@ https://topoexport.com/)
 - [cookwell](https://www.cookwell.com/shop)
 - [ankarsrum](https://www.ankarsrum.com/us/) - The ultimate stand mixer for your home
 - [dualit](https://www.dualit.com/)
+- [mrmixer](https://www.mrmixer.store/parts) - One Stop Shop for All of Your KitchenAid Mixer Needs 
 - [Corelle](https://corelle.com/) - drink & dinnerware
 
 **BBQ**
@@ -1673,7 +1696,8 @@ https://topoexport.com/)
 - [nicotine](https://nicotine-plus.org/) - file sharing app
 - [hyprland](https://hypr.land/) - window manager
 - [niri](https://github.com/niri-wm/niri) - window manager
-- [spotify adblocker](https://github.com/SpotX-Official/SpotX-Bash)  
+- [spotify adblocker](https://github.com/SpotX-Official/SpotX-Bash)
+- [dank linux](https://danklinux.com/) - modern desktop   
 
 ## Local  
 - [booksalefinder](https://www.booksalefinder.com/) - find a book sale near you  
@@ -1914,7 +1938,8 @@ https://topoexport.com/)
 - [Docuseal](https://www.docuseal.com/) - Document Signing  
 - [OpenProject](https://www.openproject.org/) - project management software  
 - [Nextcloud](https://nextcloud.com/) - content collaboration platform  
-- [Appflowy](https://appflowy.com/) - AI collaborative workspace  
+- [Appflowy](https://appflowy.com/) - AI collaborative workspace
+- [documenso](https://documenso.com/) - Enterprise-Grade E-Signatures For Everyone   
 - [Coolify](https://coolify.io/) - Self-hosting with superpowers
 - [Supabase](https://supabase.com/) - Open Sourced Firebase Alternative
 - [NocoDB](https://nocodb.com/) - Build Databases - Alternative to Airtable     
@@ -2086,7 +2111,8 @@ https://topoexport.com/)
 - [todoist](https://www.todoist.com/)  
 - [kortex](https://www.kortex.co/)  
 - [mymind](https://mymind.com/)
-- [lifestack](https://lifestack.ai/)  
+- [lifestack](https://lifestack.ai/)
+- [tolaria](https://tolaria.md/) 
 - [audionotes](https://www.audionotes.app/)  
 - [kosmik](https://www.kosmik.app/) - full visual research platform  
 - [superhuman](https://superhuman.com/) - email app  
@@ -2201,7 +2227,8 @@ https://topoexport.com/)
 
 **Products**  
 - [Kasa](https://www.kasasmart.com/us) - Security Cameras, Light Switches and Plugs
-- [Dreame X60 Max Ultra Complete](https://www.dreametech.com/products/x60-max-ultra-complete-robot-vacuum?gad_source=1&gad_campaignid=20585612283&gbraid=0AAAAABO4QZ9sARjWpovV95cqaDfu2uts8&gclid=EAIaIQobChMI-66HjdjAkgMV5jYIBR366DgVEAAYASAAEgK-a_D_BwE) - Ultra-slim robot vacuum and mop with 35,000Pa suction     
+- [Dreame X60 Max Ultra Complete](https://www.dreametech.com/products/x60-max-ultra-complete-robot-vacuum?gad_source=1&gad_campaignid=20585612283&gbraid=0AAAAABO4QZ9sARjWpovV95cqaDfu2uts8&gclid=EAIaIQobChMI-66HjdjAkgMV5jYIBR366DgVEAAYASAAEgK-a_D_BwE) - Ultra-slim robot vacuum and mop with 35,000Pa suction
+- [Sonoff](https://sonoff.tech/en-us)     
   
 **Technology**  
 - [Zigbee](https://csa-iot.org/all-solutions/zigbee/)  
@@ -2234,13 +2261,14 @@ https://topoexport.com/)
 - [crichd.tv](http://crichd.tv/)  
 - [firstrowsportș](https://xn--firstrowsport-8xe.eu/)  
 - [livetv](http://livetv.sx/)  
-- [streamed](https://streamed.su/)  
+- [streamed](https://streamed.pk/) **
+- [sportsbite](https://sportsbite.lol/)   
 - [sportsurge](https://v2.sportsurge.net/home5/)
 - [timstreams](https://timstreams.site/)
 - [streameast](https://v2.streameast.ga/)
 - [moviebite](https://sports.moviebite.cc/)
 - [bintv](https://www.bintv.fun/)
-- [ppv](https://ppv.to/)
+- [ppv](https://ppv.to/) **
 - [dlhd](https://dlhd.link/)
 - [sport71](https://beta.sport71.pro/)
 - [watchfooty](https://www.watchfooty.st/en)
@@ -2260,7 +2288,7 @@ https://topoexport.com/)
 - [crowdcube](https://www.crowdcube.com/) - European  
 - [ourcrowd](https://www.ourcrowd.com/)
 - [IdeaBrowser](https://www.ideabrowser.com/) - Startup idea discovery platform with trending ideas, market data, validation scores, and go-to-market tactics
-- [fundersclub](https://fundersclub.com/)  
+- [fundersclub](https://fundersclub.com/)   
 - [equityzen](https://equityzen.com/) - private companies
 - [Loot Drop — Failed Startup Ideas Directory](https://loot-drop.vercel.app/)    
 
@@ -2287,7 +2315,9 @@ https://topoexport.com/)
 - [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
 - [Artefacto — Augmented Reality Platform](https://www.artefacto.com/default)
 - [CPU Benchmark — Intel Core 7 150U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+7+150U&id=5944) - PassMark CPU benchmark results and comparison data
+- [ladybird](https://ladybird.org/) - A truly independent web browser
 - [Cap Recorder](https://github.com/CapSoftware/cap)
+- [tinygrad](https://tinygrad.org/) - fastest growing neural network framework 
 - [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [Ito Markets](https://github.com/Ito-Markets)
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
@@ -2299,6 +2329,7 @@ https://topoexport.com/)
 - [Shlink](https://shlink.io/)
 - [MiniMax Agent](https://agent.minimax.io/?ref=producthunt)
 - [NetBird](https://netbird.io/pricing#on-prem)
+- [Zed](https://zed.dev/) - Your last next editor    
 - [Chatterbox AI](https://github.com/resemble-ai/chatterbox)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)   
 - [Waveshare 13.3" E-Paper HAT+ (E)](https://www.waveshare.com/product/displays/e-paper/13.3inch-e-paper-hat-plus-e.htm) - Full color 1600×1200 E-Ink display for Raspberry Pi
@@ -2585,7 +2616,8 @@ https://topoexport.com/)
 - [gshock](https://gshock.casio.com/us/)  
 - [seiko](https://seikousa.com/)  
 - [tudor](https://www.tudorwatch.com/en)  
-- [rolex](https://www.rolex.com/)  
+- [rolex](https://www.rolex.com/)
+- [timex](https://timex.com/)   
 - [omega](https://www.omegawatches.com/en-us/)  
 - [patek](https://www.patek.com/en/home)  
 - [audemarspiguet](https://www.audemarspiguet.com/com/en/home.html)
@@ -2616,6 +2648,7 @@ https://topoexport.com/)
 - [Rectify11](https://rectify11.net/home)  
 - [Files](https://files.community/)  
 - [Notepad++](https://notepad-plus-plus.org/) - free source code editor and Notepad replacement that supports several languages
+- [droptopfour](https://www.droptopfour.com/) - Dropdown menu bar & app launcher for Windows & Rainmeter 
 - [WinBoat](https://winboat.app/)   
 - [Windhawk](https://windhawk.net/) - the customization marketplace for Windows and programs  
 - [Libre Office](https://www.libreoffice.org/) - your private, free office suite  
