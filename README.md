@@ -737,6 +737,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [swipefile](https://swipefile.com/) - marketing inspiration 
 - [chatfuel](https://chatfuel.com/) - automate workflow
 - [AGDC](https://www.agdcnow.com/)
+- [Trellis](https://trellis.law/search) 
 - [Reteno](https://reteno.com/)
 - [Cogency Global](https://www.cogencyglobal.com) -  representation and corporate compliance services from professionals who are proven industry leaders     
 - [getwherewolf](https://getwherewolf.com/) - Capture Waivers, Drive Bookings, Automate Reviews
@@ -2239,7 +2240,8 @@ https://topoexport.com/)
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
 - [ballmasonjars](https://www.ballmasonjars.com/)
 - [onewheel](https://onewheel.com/) 
-- [dorcousa](https://dorcousa.com/) 
+- [dorcousa](https://dorcousa.com/)
+- [La Marzocco](https://lamarzoccousa.com/)    
 - [vetted](https://vetted.ai/) - AI shopping research agent
 - [Amazon — Futura Steel](https://www.amazon.com/stores/page/4145F9A8-961B-4BF9-8488-A6CAA68F76D4?ingress=2&lp_context_asin=B00F3EC5E2&lp_context_query=futura%20steel&visitId=2a967856-a3c5-4047-9a90-8c1d2a697f25&store_ref=bl_ast_dp_brandLogo_sto&ref_=ast_bln) - Amazon storefront for Futura brand steel products
 - [bugaboo](https://www.bugaboo.com/us-en) - strollers & more
