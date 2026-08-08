@@ -136,7 +136,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Cometin](https://play.google.com/store/apps/details?id=host.stjin.cometin&hl=en_US&gl=US) - Add a work profile to your Android/other modules  
 - [Samsung Band Selection](https://play.google.com/store/apps/details?id=com.ray.samsungbandselection&hl=en_US&gl=US) - Switch your 5G band to 4G or 3G  
 - [Video to Wallpaper](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Set any video as your phone wallpaper  
-- [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines   
+- [Volume](https://play.google.com/store/apps/details?id=com.volumestories.flutterapp&hl=en_US&gl=US) - Bite-Sized Magazines
+- [Termux-Hacklab](https://github.com/techjarves/termux-hacklab) - Turns Android into a GPU-accelerated Linux penetration testing lab with Nmap, SQLMap, and Hydra, no root required
 - [Medium](https://medium.com/) - Blogging platform  
 - [Wallberry](https://play.google.com/store/apps/details?id=com.raj_arya.wallberry&hl=en_US&gl=US) - Wallpaper App  
 - [Passport Photo Editor](https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US) - Passport size photo at home    
@@ -152,7 +153,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [livenettv](https://www.livenettv.vip/) - Live TV    
 - [Modyolo](https://modyolo.com/) - modded apps    
 - [Liteapks](https://liteapks.com/) - modded apps
-- [RockMods — Modded Apps and Games](https://www.rockmods.net/)        
+- [RockMods — Modded Apps and Games](https://www.rockmods.net/)
+- [Morphe Patches](https://morphe-patches.software/) - Community-maintained patch bundles for the Morphe Android app modification tool   
 - [TouchHLE](https://touchhle.org/) - run iPhone Apps on Android     
 
 
@@ -168,6 +170,11 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [base44](https://base44.com/)
 - [Google ADK](https://google.github.io/adk-docs/) - Google's Agent Development Kit for building, evaluating, and deploying AI agents
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawling framework optimized for AI and LLM data extraction
+- [DevSpace](https://github.com/Waishnav/devspace) - Self-hosted MCP server that lets ChatGPT or Claude read, edit, and run code in your local project files
+- [DocuSeal](https://www.docuseal.com/) - Open-source self-hosted alternative to DocuSign and PandaDoc for document signing
+- [tldraw](https://www.tldraw.com/) - Open-source SDK for building infinite canvas and whiteboard experiences in React
+- [PartyKit](https://www.partykit.io/) - Turn any app into a realtime multiplayer experience, works with Yjs, Automerge, and tldraw
+- [Floci](https://github.com/floci-io/floci) - Free open-source local cloud emulator for AWS, GCP, Azure, and OCI with no auth tokens or feature gates
 - [Scrapy](https://github.com/scrapy/scrapy) - Open-source web scraping framework for Python
 - [Scorecard.dev](https://scorecard.dev/) - OpenSSF Scorecard for automated security health checks on open-source projects
 - [UserWay](https://userway.org/) - Web accessibility widget and compliance platform
@@ -326,7 +333,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Grok](https://x.ai/) - AI Software led by Elon Musk  
 - [Deepseek](https://www.deepseek.com/) - AI Search Engine From China  
 - [Claude](https://claude.ai/) - AI writing assistant
-- [phind](https://www.phind.com/) 
+- [phind](https://www.phind.com/)
+- [Sakana Fugu](https://sakana.ai/fugu-release/) - Multi-agent orchestration model from Sakana AI that coordinates a pool of frontier LLMs behind a single API
 - [Vetted](https://vetted.ai/) - AI shopping assistant  
 - [Copilot](https://copilot.microsoft.com/onboarding) - Microsoft's chatbot  
 - [jasper.ai](https://www.jasper.ai/) - AI blog writer & other resources
@@ -708,11 +716,14 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Skupos Training Manual PDF](https://7551458.fs1.hubspotusercontent-na1.net/hubfs/7551458/Skupos_Training-Manual_2023-1.pdf)
 - [CStorePro — Convenience Store Dashboard](https://secure.cstorepro.com/EmagineNETCOSM/Content/Dashboard/OwnerDashboard.aspx?&enetFoundationMenuID=1825)
 - [Skool — Community Discovery and Creation](https://www.skool.com/)
+- [Saltbox](https://www.saltbox.com/) - Flexible co-warehousing and logistics space for ecommerce businesses with month-to-month memberships
 - [SponsorApp — Sponsorship Management](https://sponsorapp.io/)
 - [Cronysoft — Warehouse Management System](https://wms.cronysoft.com/#con)
 - [Idea Browser](https://www.ideabrowser.com/)  
 - [revenuecat](https://www.revenuecat.com/) - build and grow your subscription business
 - [Gumroad](https://gumroad.com/)
+- [NRC Realty & Capital Advisors](https://www.nrc.com/sales) - Real estate and financial advisory firm specializing in accelerated sale of petroleum, convenience store, and commercial properties
+- [Veesion](https://veesion.io/en/) - AI-powered retail theft detection using gesture recognition on existing CCTV cameras, no facial recognition 
 - [Autopilot](https://www.joinautopilot.com/landing)
 - [RealtyAPI](https://www.realtyapi.io/)
 - [ShipVeho](https://www.shipveho.com/)
@@ -741,6 +752,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [kick](https://www.kick.co/) - Self-driving bookkeeping 
 - [mixkit](https://mixkit.co/) - free assets for your next video project  
 - [pixelhunter](https://pixelhunter.io/) - free AI image resizer
+- [TrustMRR](https://trustmrr.com/) - Database of Stripe-verified startup revenues for the indie hacker and SaaS acquisition community
 - [flourish](https://flourish.studio/) - Where data meets storytelling
 - [hunter](https://hunter.io/) - connect with any professional 
 - [creatormarketplace.tiktok](https://creatormarketplace.tiktok.com/)
@@ -998,7 +1010,8 @@ https://topoexport.com/)
 - [Homeschool Travel Deals](https://homeschooltraveldeals.com/)    
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [Deal Seek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
-- [Doctor of Credit](https://www.doctorofcredit.com/)  
+- [Doctor of Credit](https://www.doctorofcredit.com/)
+- [Franklist](https://franklist.info/) - Hemp and THCA vendor coupon aggregator site
 - [Dan’s Deals](https://www.dansdeals.com/)  
 - [Craigslist](https://www.craigslist.org/)
 - [getsavewise](https://getsavewise.com/) - Maximize rewards with Savewise
@@ -1199,7 +1212,8 @@ https://topoexport.com/)
 - [Moneyshow](http://moneyshow.com/)  
 - [Optionalpha](http://optionalpha.com/)  
 - [Barchart](http://barchart.com/)
-- [SnapTrade](https://snaptrade.com/) - API platform for connecting trading and investment accounts to fintech applications 
+- [SnapTrade](https://snaptrade.com/) - API platform for connecting trading and investment accounts to fintech applications
+- [Equity Clock — Commodities](https://charts.equityclock.com/category/commodities) - Seasonal charts and historical buy/sell timing analysis for commodity futures
 - [YFINet — Financial Network Platform](https://www.yfinet.com/)  
 - [Katusaresearch](http://katusaresearch.com/)  
 - [Tradingview](http://tradingview.com/)  
@@ -1851,6 +1865,9 @@ https://topoexport.com/)
 - [beszel](https://beszel.dev/) - Simple, lightweight server monitoring
 - [uptimekuma](https://uptimekuma.org/) - Fancy Self-Hosted Monitoring Tool
 - [Twingate](https://www.twingate.com/) - Go beyond VPN
+- [Darling](https://www.darlinghq.org/) - Open-source macOS compatibility layer for Linux, similar to Wine
+- [JuiceFS](https://juicefs.com/en/product/community-edition) - Open-source cloud-native distributed POSIX file system built on object storage
+- [Bvckup 2](https://bvckup2.com/) - Fast, reliable Windows backup software using delta copying
 - [Localhost Status Check Endpoint](https://localhost:6547/status)
 - [Twingate YouTube Channel](https://www.youtube.com/@Twingate/videos) - Video content from Twingate, the zero-trust network access platform
 - [Hetzner Cloud](https://www.hetzner.com/cloud) - Affordable European cloud hosting with VPS servers, block storage, and GDPR-compliant data centers in Germany, Finland, USA, and Singapore
@@ -2216,6 +2233,7 @@ https://topoexport.com/)
 - [honestbrandreviews](https://www.honestbrandreviews.com/)
 - [faire](https://www.faire.com/) - wholesale prices 
 - [looria](https://www.looria.com/) - The Internet's Favorite Products In One Place
+- [ledger.worseonpurpose.com](https://ledger.worseonpurpose.com/?utm_source=substack&utm_medium=email)   
 - [kleen](https://www.kleen-ritecorp.com/default.aspx) - car wash supplies
 - [Personal BIFL Bible](https://docs.google.com/document/d/18mNjTbQo2lAsooXA022Qwe60rrBn41IuwAsaUGqc2HM/edit?pli=1&tab=t.0#heading=h.67m41mp1yhzi) - Personal Purchasing Bible
 - [americanfloormats](https://www.americanfloormats.com/) - the most comprehensive selection of high quality floor mats
@@ -2279,6 +2297,7 @@ https://topoexport.com/)
 - [watchfooty](https://www.watchfooty.st/en)
 - [ntvstream](https://ntvstream.cx/)
 - [watchsports](https://watchsports.to/)
+- [MutStreams](https://mutstreams.live/) - Free live sports streaming site for NFL, NBA, NHL, MLB, UFC, and more
 - [sportyhunter](https://sportyhunter.com/)    
 
 ## Startup Investment and Crowdfunding
@@ -2326,6 +2345,7 @@ https://topoexport.com/)
 - [Awesome Codex Skills](https://github.com/ComposioHQ/awesome-codex-skills)
 - [Ito Markets](https://github.com/Ito-Markets)
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
+- [BuildCores](https://www.buildcores.com/) - Browser-based 3D PC part picker with compatibility checking and price comparison
 - [AirLLM](https://github.com/lyogavin/airllm)
 - [CheckVibe](https://checkvibe.dev/)
 - [Ruflo](https://github.com/ruvnet/ruflo)
