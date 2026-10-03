@@ -178,7 +178,12 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Scrapy](https://github.com/scrapy/scrapy) - Open-source web scraping framework for Python
 - [Scorecard.dev](https://scorecard.dev/) - OpenSSF Scorecard for automated security health checks on open-source projects
 - [UserWay](https://userway.org/) - Web accessibility widget and compliance platform
-- [co](https://www.co.dev/)  
+- [co](https://www.co.dev/)
+- [Payload CMS](https://payloadcms.com/) - Next.js headless CMS and application framework
+- [MedusaJS](https://medusajs.com/) - Open-source commerce platform
+- [Lumos Framework](https://lumosframework.com/)
+- [Resend](https://resend.com/)
+- [Crawl4AI](https://github.com/unclecode/crawl4ai)
 - [Vercel](https://vercel.com/) - Your complete platform for the web    
 - [IDX](https://idx.google.com) - Start building your app in the cloud   
 - [hackertab](https://hackertab.dev/) - Developer news
@@ -370,7 +375,18 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
 - [Inception Labs Mercury 2](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - First reasoning diffusion LLM at 1,000+ tokens/sec, 5x faster than autoregressive models
 - [AI4Bharat Arena](https://arena.ai4bharat.org/#/chat) - Indian AI research lab's chatbot arena for evaluating language models
-- [Accio](https://www.accio.com/) 
+- [Accio](https://www.accio.com/)
+- [Skills.sh](https://www.skills.sh/)
+- [Qdrant](https://github.com/qdrant/qdrant)
+- [Langfuse](https://github.com/langfuse/langfuse)
+- [Agent Reach](https://github.com/Panniantong/agent-reach)
+- [DSPy](https://github.com/stanfordnlp/dspy)
+- [Matt Pocock Skills](https://github.com/mattpocock/skills)
+- [Planning With Files](https://github.com/OthmanAdi/planning-with-files)
+- [RTK](https://github.com/rtk-ai/rtk)
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach)
+- [Xiaomi MiMo AI Studio](https://aistudio.xiaomimimo.com/#/)
+- [URV AI Chat](https://perchance.org/urv-ai-chat)
 - [Paperclip](https://paperclip.ing/) - Open-source orchestration platform for zero-human companies — org charts, budgets, and governance for AI agent teams (36K+ GitHub stars)
 - [DeerFlow](https://deerflow.tech/) - ByteDance's open-source SuperAgent harness for deep research, coding, and content creation with sub-agents, memory, and sandboxed execution
 - [MiniMax Agent](https://agent.minimax.io/) - AI supercompanion powered by MiniMax M2 — general-purpose agent for coding, research, and complex multi-step tasks
@@ -380,6 +396,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - 100+ specialized Claude Code subagent definitions
 - [Marginlab Claude Code Tracker](https://marginlab.ai/trackers/claude-code/) - Independent daily AI model performance monitoring
 - [OpenRouter — NVIDIA Nemotron 3 Nano 30B](https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free/performance) - Free open-source MoE model for agentic AI
+- [Cairn](https://github.com/oritera/Cairn) - AI general-purpose state-space search engine
+- [Skills.sh](https://www.skills.sh/) - Agent skills directory
 - [LLM Stats](https://llm-stats.com/) - AI model leaderboards, benchmarks, and comparison
 - [LLM Explorer](https://llm-explorer.com/) - Language model discovery and comparison tool
 - [Future Tools](https://www.futuretools.io/?pricing-model=free) - Free AI tools directory
@@ -642,6 +660,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [sobrief](https://sobrief.com/) - Read any book in 10 minutes  
 - [openlibrary](https://openlibrary.org/) - open, editable library catalog
 - [gutenberg](https://gutenberg.org/) - library of over 75,000 free eBooks
+- [Foliate](https://johnfactotum.github.io/foliate/) - The Best eBook Reader for Linux
 
 **Search and Download Any Book**    
 - [annas-archive](https://annas-archive.org/) - largest truly open library in human history  
@@ -908,7 +927,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [DiscountMugs](https://www.discountmugs.com/)  
 - [StickerMule](http://www.stickermule.com/)  
 - [CustomInk](http://www.customink.com/)  
-- [Zazzle](http://www.zazzle.com/)  
+- [Zazzle](http://www.zazzle.com/)
+- [SendCutSend](https://sendcutsend.com)  
 - [Shutterfly](http://www.shutterfly.com/)  
 - [ThingsRemembered](http://www.thingsremembered.com/)  
 - [eGrandstand](http://www.egrandstand.com/)  
@@ -929,7 +949,16 @@ https://topoexport.com/)
 - [Lapa Ninja — Landing Page Design Inspiration](https://www.lapa.ninja/)
 - [Photopea — Free Online Photo Editor](https://www.photopea.com/)
 - [Paper Design](https://paper.design/)
-- [affinity](https://www.affinity.studio/)  
+- [Curated Design](https://curated.design/) - Curated web design inspiration
+- [Open Design](https://github.com/nexu-io/open-design) - Open-source design resources
+- [affinity](https://www.affinity.studio/)
+- [Open Design](https://github.com/nexu-io/open-design)
+- [Excalidraw](https://app.excalidraw.com/sign-up?utm_source=signin&utm_medium=app&utm_content=hamburger)
+- [Anime.js](https://animejs.com/)
+- [UI Design Inspiration Websites](https://www.reddit.com/r/webdesign/comments/1q6dmix/25_ui_design_inspiration_websites_worth/)
+* [Curated Design](https://curated.design/)
+* [Atomm](https://www.atomm.com/)
+* [Printables](https://www.printables.com/)
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [DealSeek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
 - [Spline — 3D Design Tool in Browser](https://spline.design/)
@@ -1008,6 +1037,8 @@ https://topoexport.com/)
 - [Slickdeals](https://slickdeals.net/)  
 - [Brickseek](https://brickseek.com/)  
 - [Ibotta](https://home.ibotta.com/)
+- [MorningSave](https://morningsave.com/) - Daily deals and discounted products
+- [VIP Outlet Home Improvement](https://vipoutlet.com)
 - [Homeschool Travel Deals](https://homeschooltraveldeals.com/)    
 - [SaveYourDeals](https://saveyourdeals.com/) - Curated Amazon deals with verified discounts and promo codes
 - [Deal Seek](https://dealseek.com/) - AI-powered Amazon deal finder with verified promo codes and real price drops
@@ -1038,6 +1069,7 @@ https://topoexport.com/)
 
 - [Paperless-ngx](https://docs.paperless-ngx.com/) - Open-source document management system that transforms physical documents into a searchable online archive with OCR
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-hosted PDF manipulation tool with merge, split, convert, and OCR
+- [Zotero](https://www.zotero.org/)
 - [Papra](https://papra.app/en/) - Document management and organization tool
 
 
@@ -1046,7 +1078,8 @@ https://topoexport.com/)
 - [Send Anywhere](https://send-anywhere.com/)  
 - [Smash File Transfer](https://fromsmash.com/)  
 - [Snapdrop](https://snapdrop.net/)
-- [limewire](https://limewire.com/) -
+- [limewire](https://limewire.com/)
+- [AlterSend](https://altersend.com/) - Open-source encrypted peer-to-peer file transfer
 - [bvckup2](https://bvckup2.com/) - Simple fast backup     
 - [Blip](https://blip.net/) - Fastest way to send files across devices  
 - [LocalSend](https://localsend.org/) - Share files to nearby devices
@@ -1429,7 +1462,9 @@ https://topoexport.com/)
 - [Spoken.io](https://www.spoken.io/)  
 - [containerstore](https://www.containerstore.com/welcome.htm)  
 - [potterybarn](https://www.potterybarn.com/)  
-- [rh](https://rh.com/)  
+- [rh](https://rh.com/)
+- [Sohomod](https://www.sohomod.com)
+- [Zenduce](https://www.zenduce.com)
 - [crateandbarrel](https://www.crateandbarrel.com/)  
 - [Chita Living](https://chitaliving.com/)  
 - [westelm](https://www.westelm.com/)  
@@ -1461,7 +1496,8 @@ https://topoexport.com/)
 - [Trek](https://github.com/mauriceboe/TREK) - self-hosted, real-time collaborative travel planner
 - [Mobile Hacklab](https://github.com/techjarves/termux-hacklab) - Run Linux Desktop with GPU Acceleration on Android
 - [Floci](https://github.com/floci-io/floci) - free, open-source local AWS emulator for development, testing, and CI
-- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turn any codebase, knowledge base, or docs into an interactive knowledge graph 
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turn any codebase, knowledge base, or docs into an interactive knowledge graph
+- [Dynacat](https://github.com/Panonim/dynacat)
 - [AI Engineering From Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [AionUI](https://github.com/iOfficeAI/AionUi) - open-source, Cowork app with AI Agents
 - [Career Ops](https://github.com/santifer/career-ops)   
@@ -1567,6 +1603,9 @@ https://topoexport.com/)
 - [ownwell](https://www.ownwell.com/) - reduce your property taxes  
 - [bldr](https://www.bldr.com/)
 - [WLED Knowledge Base](https://kno.wled.ge/)
+- [Sta-Green](https://www.lowes.com/search?searchTerm=sta+green)
+- [Tomcat Rat](https://www.google.com/search?q=tomcat+rat&sca_esv=02e44e6244e6e13f&rlz=1C1HKFL_enUS1197US1197&ei=tmGkatuFDMCxqtsPi_a2-Qs&biw=1920&bih=911&ved=2ahUKEwjbuNmfrOeWAxXAmGoFHQu7Lb8Q4dUDegQIBhAM&uact=5&oq=tomcat+rat&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRvbWNhdCByYXQyCxAAGIAEGIoFGJECMgUQABiABDIFEAAYgAQyCBAAGIAEGLQHMggQABiABBi0BzIIEC4YgAQY5QQyCBAAGIAEGLQHMggQLhiABBjlBDIFEAAYgAQyBRAAGIAESNMOULQFWOwLcAB4ApABAJgBOaABvgGqAQE0uAEDyAEA-AEBmAIFoALTAcICBBAAGEfCAgoQABiABBiKBRhDwgIOEAAYgAQYigUYsQMYgwHCAgsQLhiABBjlBBi0B5gDAOIDBRIBMSBAiAYBkAYIkgcBNaAHiSOyBwE0uAfOAcIHBTAuNC4xyAcNgAgB&sclient=gws-wiz-serp)
+*
 - [Living Earth Tech](https://www.livingearthtechnology.com/)
 - [TOTO Store](https://www.amazon.com/stores/TOTO/page/81EFEFBD-555C-463D-A8AD-60974A483576)
 - [SUPERthrive](https://www.amazon.com/SUPERthrive-VI30148-Plant-Vitamin-Solution/dp/B000OM82J0) - Original plant vitamin solution with kelp and Vitamin B1 since 1940
@@ -1676,6 +1715,8 @@ https://topoexport.com/)
 - [cookwell](https://www.cookwell.com/shop)
 - [ankarsrum](https://www.ankarsrum.com/us/) - The ultimate stand mixer for your home
 - [dualit](https://www.dualit.com/)
+- [Victorinox](https://www.victorinox.com/en-US/)
+- [La Marzocco USA](https://lamarzoccousa.com/)
 - [mrmixer](https://www.mrmixer.store/parts) - One Stop Shop for All of Your KitchenAid Mixer Needs 
 - [Corelle](https://corelle.com/) - drink & dinnerware
 
@@ -1758,6 +1799,7 @@ https://topoexport.com/)
 - [moviemaze](https://moviemaze.cc/) **
 - [a.111477](https://a.111477.xyz/) ** 
 - [cineby](https://www.cineby.app/)
+- [Download Everything From Everywhere](https://downloadeverythingfromeverywhere.com) 
 - [VibeMax](https://vibemax.to/) - Free streaming site for movies and TV shows 
 - [xprime](https://xprime.tv/)
 - [rivestream](https://rivestream.org/)
@@ -1859,6 +1901,8 @@ https://topoexport.com/)
 - [blackhat](https://blackhat.com/) - internationally recognized cybersecurity event series
 - [mariushosting](https://mariushosting.com/)
 - [using-cloudflare](https://corcoran.medium.com/using-cloudflare-for-ddns-and-tls-certificates-on-synology-dsm6-1549e55d557f)
+- [Byteport](https://byteport.com/)
+- [Infinite Cables](https://us.infinitecables.com)
 - [Dockhand](https://dockhand.pro/#features) - Modern Docker container management with Compose stack support
 - [Termix](https://termix.site/) - Self-hosted web-based server management platform with SSH terminal  
 - [wigle](https://wigle.net/) - all the networks
@@ -1940,6 +1984,7 @@ https://topoexport.com/)
 - [qz](https://qz.com/emails/daily-brief) - daily briefing on the economy  
 - [12ft](https://12ft.io/) - bypass ads & popups  
 - [microsaasidea](https://microsaasidea.com/)
+- [TLDR](https://tldr.tech/) - Daily technology, startup, and programming newsletter
 - [alphasignal](https://alphasignal.ai/) - stay on top of the latest in AI
 - [rundown](https://www.therundown.ai/) - AI news
 - [superhuman](https://www.superhuman.ai/subscribe?rdt_cid=4805499825531898028&utm_medium=Misc&utm_source=redditads) - Master AI Tools, Tutorials & News  
@@ -2101,7 +2146,9 @@ https://topoexport.com/)
 **Other Tools & Devices**    
 - [ipfs](https://ipfs.io/)  
 - [syncthing](https://syncthing.net/)  
-- [puri.sm](https://puri.sm/)  
+- [puri.sm](https://puri.sm/)
+- [Obscura VPN](https://obscura.com/)
+- [Strix](https://www.strix.ai/) - AI-powered autonomous penetration testing
 - [Blacklight](https://themarkup.org/series/blacklight) - real-time website privacy inspector
 - [deflock](https://deflock.me/) - you're being tracked
 - [eyesonflock](https://eyesonflock.com/) - Aggregating Flock Safety Transparency Portal Data
@@ -2336,6 +2383,9 @@ https://topoexport.com/)
 - [MagicDVR — DVR Software Downloads](https://www.magicdvr.com/downloads/)
 - [KiCad](https://www.kicad.org/)
 - [Rockbox](https://www.rockbox.org/)
+- [OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+- [Eazao](https://www.eazao.com/)
+- [ELEGOO](https://www.elegoo.com)
 - [Barcode Generator](https://www.barcodesinc.com/generator/index.php?srsltid=AfmBOoprL7uMD5BjzesGQpvSDWD51R4ecNCxBB0v4kvAe8olLwAp421F)  
 - [Heretic Launcher](https://github.com/p-e-w/heretic)
 - [CyberDeck — Carbon Computers Collection](https://carboncomputers.us/collections/cyberdeck)
@@ -2349,6 +2399,8 @@ https://topoexport.com/)
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 - [BuildCores](https://www.buildcores.com/) - Browser-based 3D PC part picker with compatibility checking and price comparison
 - [AirLLM](https://github.com/lyogavin/airllm)
+- [aria2](https://github.com/aria2/aria2/)
+- [SignPath](https://signpath.io/)
 - [CheckVibe](https://checkvibe.dev/)
 - [Ruflo](https://github.com/ruvnet/ruflo)
 - [Proxmox VE](https://www.proxmox.com/en/)
@@ -2582,6 +2634,8 @@ https://topoexport.com/)
 
 ## US and Government  
 
+- [Trellis Law](https://trellis.law/cases/party)
+
 **Track the US President**
 - [potustracker](https://potustracker.us/)     
 
@@ -2665,6 +2719,7 @@ https://topoexport.com/)
 - [weathernext](https://deepmind.google/technologies/weathernext/#access-weathernext) - Google’s AI weather forecast tech  
 - [zoom.earth](https://zoom.earth/) - live weather map  
 - [overdrop](https://get.overdrop.app/) - weather app
+- [IQAir Air Quality Map](https://www.iqair.com/air-quality-map)
 - [Earth Nullschool — Global Wind and Weather Map](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-80.18,29.85,714/loc=85.612,30.115)          
 
 ## Windows  
