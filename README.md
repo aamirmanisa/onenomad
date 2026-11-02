@@ -168,6 +168,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [flutterflow](https://www.flutterflow.io/)
 - [tldraw](https://tldraw.dev/)
 - [base44](https://base44.com/)
+- [HyperFrames](https://www.hyperframes.dev/) - HeyGen's open-source framework that renders HTML, CSS, and seekable animations into deterministic MP4 video, built for AI agents (HTML-based alternative to Remotion)
+- [cloudflare-ddns](https://github.com/okikio/cloudflare-ddns) - Dynamic DNS updater for Cloudflare
 - [Google ADK](https://google.github.io/adk-docs/) - Google's Agent Development Kit for building, evaluating, and deploying AI agents
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source web crawling framework optimized for AI and LLM data extraction
 - [DevSpace](https://github.com/Waishnav/devspace) - Self-hosted MCP server that lets ChatGPT or Claude read, edit, and run code in your local project files
@@ -348,6 +350,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 **AI Voice Generator**
 - [Murf](https://murf.ai/)
 - [Eleven Labs](https://elevenlabs.io/) - most realistic voice AI platform
+- [VoiceStudio](https://voicestudio.sh/) - Open-source, fully local ElevenLabs alternative for voice cloning, voice design, dubbing, transcription, and audiobooks across 600+ languages
 - [Unreal Speech](https://unrealspeech.com/) - Fast & Affordable Text-to-Speech API      
 
 **Video Generation**    
@@ -358,6 +361,7 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [Google Imagen](https://aistudio.google.com/prompts/new_image)
 - [Bing Images](https://www.bing.com/images/create)
 - [PigenAI](https://www.pigenai.art/)
+- [ArtCraft](https://getartcraft.com/) - Open-source "IDE for artists" for AI image and video creation with 2D compositing, 3D scene staging, and a model aggregator (Windows, macOS, web)
 - [Dreamina](https://dreamina.capcut.com/ai-tool/home)
 - [Vheer](https://vheer.com/)   
 
@@ -373,6 +377,13 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [NVIDIA Build](https://build.nvidia.com/models) - NVIDIA's platform for building and deploying AI models using NVIDIA NIMs
 - [AgentEvolver](https://github.com/modelscope/AgentEvolver) - ModelScope's open-source framework for evolving AI agents
 - [Agent Lightning](https://github.com/microsoft/agent-lightning) - Microsoft's open-source framework for high-performance AI agents
+- [FreeLLMAPI](https://freellmapi.co/) - Aggregates the free tiers of dozens of LLM providers behind one OpenAI-compatible endpoint with automatic failover; for personal experimentation
+- [vLLM](https://github.com/vllm-project/vllm) - High-throughput, memory-efficient open-source inference and serving engine for LLMs
+- [Headroom](https://github.com/headroomlabs-ai/headroom) - Context compression layer for AI agents that cuts token usage on tool outputs, logs, and files, with reversible originals
+- [MiroFish](https://mirofish.ai/) - Open-source swarm-intelligence engine that simulates thousands of AI agents to produce prediction reports
+- [Ruflo](https://github.com/ruvnet/ruflo) - Multi-agent orchestration framework for Claude-based coding agents
+- [Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) - Anthropic's open-source collection of plugins for knowledge-work roles
+- [Cloudflare Security Audit Skill](https://github.com/cloudflare/security-audit-skill) - Open-source agent skill that runs multi-phase security audits (recon, hunt, validate, report, verify) through parallel agents
 - [Inception Labs Mercury 2](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - First reasoning diffusion LLM at 1,000+ tokens/sec, 5x faster than autoregressive models
 - [AI4Bharat Arena](https://arena.ai4bharat.org/#/chat) - Indian AI research lab's chatbot arena for evaluating language models
 - [Accio](https://www.accio.com/)
@@ -928,7 +939,8 @@ One Nomad is a comprehensive digital wiki that serves as a dynamic platform offe
 - [StickerMule](http://www.stickermule.com/)  
 - [CustomInk](http://www.customink.com/)  
 - [Zazzle](http://www.zazzle.com/)
-- [SendCutSend](https://sendcutsend.com)  
+- [SendCutSend](https://sendcutsend.com)
+- [Polycase](https://www.polycase.com/) - Electronics enclosures with online customization and quoting
 - [Shutterfly](http://www.shutterfly.com/)  
 - [ThingsRemembered](http://www.thingsremembered.com/)  
 - [eGrandstand](http://www.egrandstand.com/)  
@@ -985,6 +997,8 @@ https://topoexport.com/)
 - [lwks](https://lwks.com/) - video editing  
 - [canva](http://www.canva.com/)  
 - [pixlr](http://www.pixlr.com/)
+- [SolidCraft](https://solidcraft.io/) - Open-source parametric 3D CAD written in Rust with desktop, browser, CLI, and MCP interfaces
+- [Elegoo Jupiter 2](https://us.elegoo.com/collections/3d-printers/products/elegoo-jupiter-2) - Large-format resin 3D printer from Elegoo
 - [Opal](https://opal.google/landing/) - Build, edit, and share AI mini-apps using natural language    
 - [animejs](https://animejs.com/) - All-in-one animation engine
 - [solidworks](https://www.solidworks.com/) - The Solution for 3D CAD, Design and Product Development
@@ -1184,6 +1198,7 @@ https://topoexport.com/)
 - [Ambient Music Mix](https://www.youtube.com/watch?v=6MC1XqZSltw)
 - [lostgamer](https://lostgamer.io/) - Get Lost in the Worlds You Love   
 - [autodraw](https://www.autodraw.com/)
+- [Need For Speed Underground 2](https://nfsu2.xyz/)       
 - [MultiMovies](https://multimovies.autos/)
 - [Rogue Engineer](https://www.youtube.com/@rogueengineer/videos)
 - [Union Crax](https://union-crax.xyz/)  
@@ -1241,7 +1256,8 @@ https://topoexport.com/)
 
 **Other Sites**  
 - [finbar](https://finbar.com/about)  
-- [Gurufocus](http://gurufocus.com/)  
+- [Gurufocus](http://gurufocus.com/)
+- [Kronos](https://github.com/shiyu-coder/Kronos) - Open-source foundation model trained on financial candlestick (K-line) data for market forecasting
 - [Computershare](https://www.computershare.com/us) - Global stock transfer agent and share registry services
 - [Moneyshow](http://moneyshow.com/)  
 - [Optionalpha](http://optionalpha.com/)  
@@ -1683,6 +1699,9 @@ https://topoexport.com/)
 
 **Fragrances**
 - [Kelkar](https://kffindia.com/)
+
+**Other**
+- [Glare](https://www.glareindia.com/)      
 
 ## International Companies  
 
@@ -2144,7 +2163,11 @@ https://topoexport.com/)
 - [twingate](https://www.twingate.com/)  
 
 **Other Tools & Devices**    
-- [ipfs](https://ipfs.io/)  
+- [ipfs](https://ipfs.io/)
+- [Holehe](https://github.com/megadose/holehe) - Checks which sites an email address is registered on
+- [Sherlock Project](https://sherlockproject.xyz/) - Hunts down social media accounts by username across hundreds of sites
+- [OSINT Search](https://osintsearch.org/) - OSINT search platform
+- [Maltego](https://www.maltego.com/) - Link-analysis and OSINT investigation platform
 - [syncthing](https://syncthing.net/)  
 - [puri.sm](https://puri.sm/)
 - [Obscura VPN](https://obscura.com/)
@@ -2426,7 +2449,7 @@ https://topoexport.com/)
 - [moment](https://www.shopmoment.com/) - camera & phone accessories
 - [fractal design](https://www.fractal-design.com/) - Gaming & PC Hardware
 
-**Custom Printed Circuit Boards & Parts**
+** Printed Circuit Boards & Parts**
 - [jlcpcb](https://jlcpcb.com/)
 - [pcbway](https://www.pcbway.com/)
 - [digikey](https://www.digikey.com/)
@@ -2451,7 +2474,8 @@ https://topoexport.com/)
 - [ryobi](https://www.ryobitools.com/)  
 - [dewalt](https://www.dewalt.com/)  
 - [craftsman](https://www.craftsman.com/)  
-- [milwaukeetool](https://www.milwaukeetool.com/)  
+- [milwaukeetool](https://www.milwaukeetool.com/)
+- [Project Farm Catalog](https://catalog.project-farm.com/) - Catalog of tools and products tested by Project Farm
 - [stanleytools](https://www.stanleytools.com/)  
 - [acmetools](https://www.acmetools.com/)  
 - [Hilti](https://www.hilti.com/)
